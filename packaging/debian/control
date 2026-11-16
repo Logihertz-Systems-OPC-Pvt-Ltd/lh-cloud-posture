@@ -1,0 +1,9 @@
+Package: lh-cloud-posture
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Sameer Tawade <ops@logihertz.com>
+Homepage: https://www.logihertz.com
+Description: lh-cloud - Cloud Security Posture Scoring & IAM Entitlement Matrix
+ Multi-cloud Infrastructure-as-Code (IaC) security posture auditor scanning Terraform, Kubernetes, and CloudFormation manifests for IAM privilege escalation, public storage, and CIS benchmark risks.
